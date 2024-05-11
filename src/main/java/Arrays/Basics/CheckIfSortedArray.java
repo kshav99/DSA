@@ -1,4 +1,4 @@
-package org.example.Basics;
+package Arrays.Basics;
 
 public class CheckIfSortedArray {
 

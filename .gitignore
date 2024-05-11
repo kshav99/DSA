@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+.idea/vcs.xml
+.idea/vcs.xml
+src/Arrays/.idea/misc.xml
+src/Arrays/.idea/modules.xml
