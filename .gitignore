@@ -40,3 +40,4 @@ build/
 .idea/vcs.xml
 src/Arrays/.idea/misc.xml
 src/Arrays/.idea/modules.xml
+*.xml
