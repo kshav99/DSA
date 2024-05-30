@@ -1,0 +1,31 @@
+1)Reverse Words in a String (Easy): Reorder the words in a string while preserving spaces between words.
+
+2)Longest Palindrome in a String (Easy): Find the longest substring that reads the same backward as forward.
+
+3Roman Numeral to Integer and vice versa (Easy): Convert between Roman numeral representation and integer values. (If not already done)
+
+4Implement ATOI (Ascii To Integer) / STRSTR (find substring) (Medium): Convert a string to an integer and find a substring within another string. (If not already done)
+
+5Longest Common Prefix (Easy): Find the longest prefix shared by all strings in a given array.
+
+6Check for Anagrams (Easy): Determine if two strings are anagrams (have the same letters but potentially different order).
+
+7Count and Say (Medium): Generate a string describing the frequency of consecutive digits in the previous string (e.g., "1211" becomes "1112").
+
+8Compare Version Numbers (Medium): Compare two version numbers represented as strings (e.g., "1.2" vs. "1.10").
+
+9Minimum Number of Bracket Reversals for Balanced Expression (Medium): Find the minimum number of reversals needed to make an expression with parentheses balanced. (If not already done)
+
+10Hashing In Strings (Theory) (Medium): Understand the theoretical concepts of hashing functions used for efficient string manipulation. (If not already done)
+
+11Z-Function (Easy): Compute the Z-function for a string, which helps identify potential matches for a pattern searching algorithm.
+
+KMP Algorithm / LPS (Longest Proper Prefix which is also a Suffix) Array (Hard): Implement the Knuth-Morris-Pratt algorithm for efficient pattern searching in strings.
+
+Minimum Characters to Make Palindrome (Hard): Find the minimum number of characters to insert at the beginning of a string to make it a palindrome.
+
+Shortest Palindrome (Hard): Find the shortest substring that forms a palindrome within a string. (If not already done)
+
+Longest Happy Prefix (Hard): Find the longest prefix of a string that can be repeatedly concatenated to form a happy string (specific definition might require further research).
+
+Count Palindromic Subsequences (Hard): Count all possible unique palindromic subsequences within a given string.

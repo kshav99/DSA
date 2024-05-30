@@ -41,3 +41,5 @@ build/
 src/Arrays/.idea/misc.xml
 src/Arrays/.idea/modules.xml
 *.xml
+.idea/misc.xml
+/.idea
